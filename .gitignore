@@ -1,0 +1,59 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual environment
+
+venv/
+env/
+.venv/
+
+# Environment variables
+
+.env
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Large datasets
+
+# Uncomment the following if the dataset should not be uploaded
+
+# data/
+
+# *.csv
+
+# *.xlsx
+
+# Machine Learning model files
+
+*.pkl
+*.pickle
+*.joblib
