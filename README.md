@@ -142,7 +142,3 @@ The features in the dataset are used as input variables for training the Machine
 ## ⭐ Acknowledgement
 
 This project was developed as part of a Machine Learning/Data Science learning project to understand the practical implementation of regression techniques.
-
----
-
-⭐ **If you find this project useful, please consider giving it a star on GitHub!**
